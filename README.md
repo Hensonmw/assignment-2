@@ -53,4 +53,4 @@ Paths are really important.  Paths are also *really confusing* and they can be r
 
 ## Modules
 
-1. Pick a module from the Python `stdlib` or a third-party module.  Write a 250 word summary of the purpose of that module and how it might be useful to you as we move through this class.  Feel free to do this in iPython and include examples, if you like.  Feel free also to look at the documentation of that module and/or any online resources, but please cite those.
+1. Pick a module from the Python `stdlib` or a third-party module.  Write a 250 word summary of the purpose of that module and how it might be useful to you as we move through this class.  Feel free to do this in iPython and include examples to make your points clearer (or to briefly illustrate what the module does).  Feel free also to look at the documentation of that module and/or any online resources, but please cite those.
